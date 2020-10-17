@@ -8,7 +8,9 @@ A Progressive Budget Tracker application to allow for offline access and functio
 
 ## Deployed
 
-<img src="./assets/capture" alt="Budget Tracker">
+https://git.heroku.com/progressive-budget-easy-app.git
+
+<img src="./public/images/Capture.PNG" alt="Budget Tracker"/>
 
 ## Contributing
 https://github.com/erikabeasley
