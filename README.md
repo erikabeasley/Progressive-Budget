@@ -7,8 +7,7 @@ A Progressive Budget Tracker application to allow for offline access and functio
 - SO THAT my account balance is accurate when I am traveling
 
 ## Deployed
-
-https://git.heroku.com/progressive-budget-easy-app.git
+https://progressive-budget-easy-app.herokuapp.com/
 
 <img src="./public/images/Capture.PNG" alt="Budget Tracker"/>
 
