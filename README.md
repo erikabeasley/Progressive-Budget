@@ -19,7 +19,7 @@ https://progressive-budget-easy-app.herokuapp.com/
 <img src="./public/images/Capture.PNG" alt="Budget Tracker"/>
 
 ## Contributing
-#### Erika Beasley
----------------
+
+Erika Beasley
 
 [<img src="https://avatars0.githubusercontent.com/u/65298769?s=400&v=4" width="100px;"/><br /><sub><b>GitHub</b></sub>](https://github.com/erikabeasley)<br />
